@@ -9,6 +9,7 @@ import { Graph1Component } from './graph1/graph1.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { ProgressComponent } from './progress/progress.component';
 import { PagesComponent } from './pages.component';
+import { AccountSettingsComponent } from './account-settings/account-settings.component';
 
 
 
@@ -17,7 +18,8 @@ import { PagesComponent } from './pages.component';
     ProgressComponent,
     DashboardComponent,
     Graph1Component,
-    PagesComponent
+    PagesComponent,
+    AccountSettingsComponent
   ],
   exports: [
     ProgressComponent,
